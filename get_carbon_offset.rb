@@ -44,7 +44,7 @@ def calculate_eq_co2(distance)
 end
 
 
-filename = 'tmp/flights.csv'
+filename = 'files/flights.csv'
 col_origin = 1
 col_destination = 2
 
